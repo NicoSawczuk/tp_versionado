@@ -16,6 +16,11 @@ public class Main {
         
         System.out.println("Perimetro del poligono 3 "+poligono3.getPerimetro());
         System.out.println("Area del poligono 3 "+poligono3.getArea());
+
+        //Parte que agregamos
+        PoligonoRegular poligono4 = new PoligonoRegular(3,1);
+        System.out.println("Perimetro: "+poligono4.getPerimetro());
+        
     }
     
     
