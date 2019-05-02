@@ -20,7 +20,6 @@ public class Main {
         //Parte que agregamos
         PoligonoRegular poligono4 = new PoligonoRegular(3,1);
         System.out.println("Perimetro: "+poligono4.getPerimetro());
-        
     }
     
     
