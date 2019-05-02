@@ -11,8 +11,7 @@ public class Main {
         System.out.println("Perimetro del poligono 1 "+poligono1.getPerimetro());
         System.out.println("Area del poligono 1 "+poligono1.getArea());
         
-        System.out.println("Perimetro del poligono 2 "+poligono2.getPerimetro());
-        System.out.println("Area del poligono 2 "+poligono2.getArea());
+        System.out.println("Suma del perimetro y el area "+(poligono2.getArea+poligono2.getPerimetro()));
         
         System.out.println("Perimetro del poligono 3 "+poligono3.getPerimetro());
         System.out.println("Area del poligono 3 "+poligono3.getArea());
