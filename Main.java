@@ -23,6 +23,7 @@ public class Main {
         //Issue7
         PoligonoRegular poligono5 = new PoligonoRegular();
         System.out.println("Perimetro del poligono 5 "+poligono5.getPerimetro());
+        
     }
     
     
