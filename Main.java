@@ -20,10 +20,9 @@ public class Main {
         PoligonoRegular poligono4 = new PoligonoRegular(3,1);
         System.out.println("Perimetro: "+poligono4.getPerimetro());
         
+        //Issue7
         PoligonoRegular poligono5 = new PoligonoRegular();
         System.out.println("Perimetro del poligono 5 "+poligono5.getPerimetro());
-        
-
     }
     
     
