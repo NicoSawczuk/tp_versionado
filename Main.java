@@ -25,6 +25,9 @@ public class Main {
         System.out.println("Perimetro del poligono 5 "+poligono5.getPerimetro());
         System.out.println("Se ha creado el poligono numero 4");
         
+        //Issue8
+        PoligonoRegular poligono6 = new PoligonoRegular();
+        System.out.println("Area del poligono 6 "+poligono6.getArea());
     }
     
     
