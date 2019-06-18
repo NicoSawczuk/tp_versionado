@@ -28,6 +28,7 @@ public class Main {
         //Issue8
         PoligonoRegular poligono6 = new PoligonoRegular();
         System.out.println("Area del poligono 6 "+poligono6.getArea());
+        System.out.println("Se ha creado el poligono numero 5");
     }
     
     
